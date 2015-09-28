@@ -1,12 +1,31 @@
 
+#centerpage {
+
+    height: 100px;
+    
+}
 
 #logo  {
-    margin-top: 18.5px;
-    margin-bottom: 50.0px;
-    margin-right: 50.0px;
-    margin-left: 64.0px;
+
     height: 100px;
-    transform: translate(200%, 150%);
+}
+
+#searchform{
+
+}
+
+
+#searchbox{
+
+}
+
+
+#searchbutton{
+
+}
+
+#luckybutton{
+
 }
 
 
